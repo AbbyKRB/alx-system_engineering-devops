@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -t | ead -n 10
